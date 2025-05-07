@@ -1,5 +1,7 @@
 # Trabalho de mineração de dados
 
+[LINK DO DRIVE](https://drive.google.com/drive/folders/1J8yfPSgOTWJDbY_v1BEynkB7zwBPH5TJ?usp=sharing)
+
 Este projeto implementa classificação de textos para artigos de notícias usando técnicas de aprendizado de máquina, especificamente Support Vector Machines (SVM). O projeto processa dados de notícias de diferentes categorias e treina modelos para classificar artigos com base em seus títulos e descrições.
 
 ## Pré-requisitos
